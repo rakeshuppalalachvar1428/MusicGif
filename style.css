@@ -1,0 +1,234 @@
+.main{
+    display: flex;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+}
+.m1{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm1 3s ease 0s infinite; 
+    /* animation-name: music;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease; */
+}
+.m2{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm2 3s ease 0s infinite; 
+}
+.m3{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm3 3s ease 0s infinite; 
+}
+.m4{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm4 3s ease 0s infinite; 
+}
+.m5{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm5 3s ease 0s infinite; 
+}
+.m6{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm6 3s ease 0s infinite; 
+}
+.m7{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm7 3s ease 0s infinite; 
+}
+.m8{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm8 3s ease 0s infinite; 
+}
+.m9{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    border-radius: 40%;
+    margin-right: 50px;
+    animation: mm9 3s ease 0s infinite; 
+}
+@keyframes mm1 {
+    0%{
+        transform: scale(1);
+    }
+    25%{
+        transform: scale(2);
+    }
+    50%{
+        transform: scale(3);
+    }
+    75%{
+        transform: scale(2);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+@keyframes mm2 {
+    0%{
+        transform: scale(2);
+    }
+    25%{
+        transform: scale(3);
+    }
+    50%{
+        transform: scale(1);
+    }
+    75%{
+        transform: scale(3);
+    }
+    100%{
+        transform: scale(2);
+    }
+}
+@keyframes mm3 {
+    0%{
+        transform: scale(3);
+    }
+    25%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(2);
+    }
+    75%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(3);
+    }
+}
+@keyframes mm4 {
+    0%{
+        transform: scale(1);
+    }
+    25%{
+        transform: scale(2);
+    }
+    50%{
+        transform: scale(3);
+    }
+    75%{
+        transform: scale(2);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+@keyframes mm5 {
+    0%{
+        transform: scale(2);
+    }
+    25%{
+        transform: scale(3);
+    }
+    50%{
+        transform: scale(1);
+    }
+    75%{
+        transform: scale(3);
+    }
+    100%{
+        transform: scale(2);
+    }
+}
+@keyframes mm6 {
+    0%{
+        transform: scale(3);
+    }
+    25%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(2);
+    }
+    75%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(3);
+    }
+}
+@keyframes mm7 {
+    0%{
+        transform: scale(2);
+    }
+    25%{
+        transform: scale(3);
+    }
+    50%{
+        transform: scale(1);
+    }
+    75%{
+        transform: scale(3);
+    }
+    100%{
+        transform: scale(2);
+    }
+}
+@keyframes mm8 {
+    0%{
+        transform: scale(3);
+    }
+    25%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(2);
+    }
+    75%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(3);
+    }
+}
+@keyframes mm9 {
+    0%{
+        transform: scale(1);
+    }
+    25%{
+        transform: scale(2);
+    }
+    50%{
+        transform: scale(3);
+    }
+    75%{
+        transform: scale(2);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
